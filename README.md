@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![charge density cutouts parallel to the 111 plane of (ambient, ionic) MgO](https://github.com/hoidn/orbitallib/blob/master/form_factors/images/ionization.gif)
 <!--
 **hoidn/hoidn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
